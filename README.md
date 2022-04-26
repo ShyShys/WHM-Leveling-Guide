@@ -1,6 +1,5 @@
-# Introduction
-
 # Gear and Job Quests
+
 
 # Glossary
 * WHM: White Mage
@@ -20,7 +19,26 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 
 # Levels 18-29
 ## Healing
+### Summary
+### New Skills
+* *Cure (level 2)*: Single target heal (GCD).
+  * Use as your primary healing at this level
+* *Medica (Level 10)*: AoE heal (GCD)
+  * Can be used as your primary aoe healing help heal multiple people who need it.
 ## Damage
+### Summary
+### New Skills
+* *Stone (level 1)*: Single target damage (GCD).
+  * Use this to do damage if you don't need to apply your DoT (below).
+  * Because Stone has a shorter cast time than your GCD recast, you can use that window to move and/or use a single oGCD. This also applies to other spells with the same cast time as Stone, sudch as its later upgrades.
+* *Aero (Level 4)*: Single target DoT (GCD, instant cast).
+  * Use Aero on as many mobs as you can while the tank is pulling (since you can't cast spells while running).
+  * Never apply your DoT to an enemy that is immediately about to die.
+  * For dungeon pulls, do not use once you have stopped moving - use Stone instead.
+  * For bosses, use every 30s to keep the DoT active until the boss dies. Try not to reapply the DoT early.
+  * Because Aero is an instant cast GCD, you can move freely and/or use two oGCDs before your next GCD. This also applies to other instant  cast GCDs, including Aero's upgrades.
+* *Stone II (level 18): Single target damage (GCD, replaces Stone).
+  
 # Levels 30-44
 ## Healing
 ## Damage
