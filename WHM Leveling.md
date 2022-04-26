@@ -1,5 +1,6 @@
 # Gear and Job Quests
 
+# Introduction
 
 # Glossary
 * WHM: White Mage.
@@ -26,11 +27,10 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Medica (Level 10)*: AoE heal (GCD).
 * *Stone II (level 18)*: Single target damage (GCD, replaces Stone).
 ## Healing
- Your heals are bare bones here, you have Cure for single target healing and and medica for your AoE heal. Use Cure as needed for tank up keep at this level Cure does a lot of the healing you need while Medica can help with aoe healing. Do not use Medica for only tank up keep as it's significantly weaker than Cure.
+ Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica for group damage if needed.
 ## Damage
- Your DPS rotation is pretty simple, keep your DoT up without refreshing it significantly ahead of time and fill any downtime of you not casting with Stone. During dungeons you should DoT enemies as you're running with your tank and Stone when your tank stops. At level 18 Stone gets replaced by Stone II
-
-# Levels 30-49
+ Help your party by doing damage when you don't need to heal. When your tank is grouping up a lot of mobs use your DoT spell while running with the tank.
+# Levels 30-50
 ## New Skills
 * *Cure II (Level 30)*: Single target heal (GCD).
 * *Presence of Mind (Level 30)*: Self haste buff (oGCD).
@@ -41,32 +41,32 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Medica II (Level 50)*: AoE HoT Heal (GCD)
 * *Benediction (Level 50)*: Single target heal (oGCD)
 ## Healing
- Your healing priority change as Regen becomes extremely strong for tank up keep in dungeons, a strong 1,200 potency heal over 18s having the highest single target heal. Keeping this up during pulls can save you GCDs of healign. Cure II also becomes a staple for single target healing as the healing potency is higher than Cure I letting you waste less GCDs on healing and more on dam,age. Cure I becomes more niche if you run low on mana and can't cast anythign else but need healing. Benediction is an instant full heal button don't hold onto this, use it proactively and let your tank get low before instantly topping them.
+ Cure II is an upgrade over Cure letting you heal much more for more mana, Cure becomes more niche only being needed if you're low on mana. Regen becomes your best healing tool healing for 1200p over 18s this should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
  
- Medica II bbecomes your primary AoE heal as it becomes equal to Medica with one trick and stronger with every additional tick. Cure III becomes a powerful AoE heal direct heal for additional mana but it has a smaller range than Medica.
- 
-## Damage
- At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s over the entire time.
- 
-# Levels 50-59
-## New Skills
+ Cure III becomes an upgrade over Medica with just a slightly smaller range, it cost more mana while having a smaller range so it shouldn't be used too much. Your best aoe heal becomes Medica II it becomes equal to medica with one tick and stronger than Medica with two ticks. This should be your primary aoe heal if you need to heal your party and they aren't in anger of dying.
 
+ At level 50 you get Benediction, this should be used proactively letting tanks get low during trash pulls and instantly healing them to full as close to on cooldown as possible is the best use and it will save you a lot of effort.
+## Damage
+ At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you can go back to Stone IV if you can't stun anymore and their are only two trash mobs.
+
+# Levels 51-60
+## New Skills
 * *Afflatus Solace (Level 52)*: Single target heal (GCD)
-* *Asylum (Level 52)*: Ground target HoT Heal (oGCD)
+* *Asylum (Level 52)*: Ground target, AoE, HoT (oGCD)
 * *Stone III (Level 54)*: Single target damage (GCD)
-* *Assize (Level 56)*: AoE heal & damage (oGCD)
+* *Assize (Level 56)*: AoE heal & AoE damage (oGCD)
 * *Thin Air (level 58)*: Self MP reduction buff (oGCD)
 
 ## Healing
 
 ## Damage
-# Levels 60-60
+# Levels 61-70
 ## New Skills
 * *Tetragrammaton (Level 60)*: single target heal (oGCD)
 * *Stone IV (level 64)*: Single target damage (GCD)
 ## Healing
 ## Damage
-# Levels 70-80
+# Levels 71-80
 ## Healing
 ## Damage
-# Levels 80-90
+# Levels 81-90
