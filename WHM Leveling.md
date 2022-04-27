@@ -47,7 +47,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 
  At level 50 you get Benediction, this should be used proactively letting tanks get low during trash pulls and instantly healing them to full as close to on cooldown as possible is the best use and it will save you a lot of effort.
 ## Damage
- At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you can go back to Stone IV if you can't stun anymore and their are only two trash mobs.
+ At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you can go back to Stone IV if you can't stun anymore and there are only two trash mobs.
 
 # Levels 51-60
 ## New Skills
