@@ -86,6 +86,7 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 ## New Skills
 * *Glare -> Glare III (level 82)*: Single target damage (GCD)
 * *Holy -> Holy III (level 82)*: AoE Damage (GCD).
+* *Enhanced Healing Magic (level 85)*: Healing spell up
 * *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
 * *Liturgy of the Bell (level 90)*: Ground target healing buff
 ## Healing
