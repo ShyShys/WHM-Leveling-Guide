@@ -24,7 +24,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Stone (level 1)*: Single target damage (GCD).
 * *Cure (level 2)*: Single target heal (GCD).
 * *Aero (Level 4)*: Single target DoT (GCD, instant cast).
-* *Medica (Level 10)*: AoE heal (GCD).
+* *Medica (level 10)*: AoE heal (GCD).
 * *Stone -> Stone II (level 18)*: Single target damage (GCD, replaces Stone).
 ## Healing
  Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica for group damage if needed.
@@ -32,14 +32,14 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
  Help your party by doing damage when you don't need to heal. When your tank is grouping up a lot of mobs use your DoT spell while running with the tank.
 # Levels 30-50
 ## New Skills
-* *Cure II (Level 30)*: Single target heal (GCD).
-* *Presence of Mind (Level 30)*: Self haste buff (oGCD).
-* *Regen (Level 35)*: Single target HoT heal (GCD), instant cast).
-* *Cure III (Level 40*: Targeted AoE heal (GCD).
-* *Holy (Level 45)*: AoE Damage (GCD).
-* *Aero -> Aero II (Level 46)*: Single target DoT (GCD, instant cast).
-* *Medica II (Level 50)*: AoE HoT Heal (GCD)
-* *Benediction (Level 50)*: Single target heal (oGCD)
+* *Cure II (level 30)*: Single target heal (GCD).
+* *Presence of Mind (level 30)*: Self haste buff (oGCD).
+* *Regen (level 35)*: Single target HoT heal (GCD), instant cast).
+* *Cure III (level 40*: Targeted AoE heal (GCD).
+* *Holy (level 45)*: AoE Damage (GCD).
+* *Aero -> Aero II (level 46)*: Single target DoT (GCD, instant cast).
+* *Medica II (level 50)*: AoE HoT Heal (GCD)
+* *Benediction (level 50)*: Single target heal (oGCD)
 ## Healing
  Cure II is an upgrade over Cure letting you heal much more for more mana, Cure becomes more niche only being needed if you're low on mana. Regen becomes your best healing tool healing for 1200p over 18s this should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
  
@@ -51,10 +51,10 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
  
 # Levels 51-60
 ## New Skills
-* *Afflatus Solace (Level 52)*: Single target heal (GCD)
-* *Asylum (Level 52)*: ground target, AoE, HoT (oGCD)
-* *Stone II -> Stone III (Level 54)*: Single target damage (GCD)
-* *Assize (Level 56)*: AoE heal, AoE damage (oGCD)
+* *Afflatus Solace (level 52)*: Single target heal (GCD)
+* *Asylum (level 52)*: ground target, AoE, HoT (oGCD)
+* *Stone II -> Stone III (level 54)*: Single target damage (GCD)
+* *Assize (level 56)*: AoE heal, AoE damage (oGCD)
 * *Thin Air (level 58)*: Self MP reduction buff (oGCD)
 * *Tetragrammaton (level 60)*: Single target heal (oGCD)
 
@@ -66,10 +66,27 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 
 # Levels 61-70
 ## New Skills
-* *Stone IV (level 64)*: Single target damage (GCD)
+* *Stone III -> Stone IV (level 64)*: Single target damage (GCD)
+* *Divine Benison (level 66)*: Single Target shield (oGCD)
+* *Plenary Indulgence (level 70)*: Healing buff to self and nearby party members (oGCD)
 ## Healing
 ## Damage
+
 # Levels 71-80
+## New Skills
+* *Aero II -> Dia (level 72)*: Single target DoT (GCD)
+* *Stone IV -> Glare (level 72)*: Single target damage (GCD)
+* *Afflatus Misery (level 74)*: Targeted AoE damage (GCD)
+* *Afflatus Rapture (level 76)*: AoE heal (GCD)
+* *Temperance (level 80)*: Healing buff to self & Mitigation buff to self and nearby party members.
 ## Healing
 ## Damage
+
 # Levels 81-90
+## New Skills
+* *Glare -> Glare III (level 82)*: Single target damage (GCD)
+* *Holy -> Holy III (level 82)*: AoE Damage (GCD).
+* *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
+* *Liturgy of the Bell (level 90)*: Ground target healing buff
+## Healing
+## Damage
