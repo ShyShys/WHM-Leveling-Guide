@@ -25,7 +25,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Cure (level 2)*: Single target heal (GCD).
 * *Aero (Level 4)*: Single target DoT (GCD, instant cast).
 * *Medica (Level 10)*: AoE heal (GCD).
-* *Stone II (level 18)*: Single target damage (GCD, replaces Stone).
+* *Stone -> Stone II (level 18)*: Single target damage (GCD, replaces Stone).
 ## Healing
  Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica for group damage if needed.
 ## Damage
@@ -37,7 +37,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Regen (Level 35)*: Single target HoT heal (GCD), instant cast).
 * *Cure III (Level 40*: Targeted AoE heal (GCD).
 * *Holy (Level 45)*: AoE Damage (GCD).
-* *Aero II (Level 46)*: Single target DoT (GCD, instant cast).
+* *Aero -> Aero II (Level 46)*: Single target DoT (GCD, instant cast).
 * *Medica II (Level 50)*: AoE HoT Heal (GCD)
 * *Benediction (Level 50)*: Single target heal (oGCD)
 ## Healing
@@ -47,22 +47,25 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 
  At level 50 you get Benediction, this should be used proactively letting tanks get low during trash pulls and instantly healing them to full as close to on cooldown as possible is the best use and it will save you a lot of effort.
 ## Damage
- At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you can go back to Stone IV if you can't stun anymore and there are only two trash mobs.
-
+ At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time and 1s for hte last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you should go to Stone II if only one mob is up
+ 
 # Levels 51-60
 ## New Skills
 * *Afflatus Solace (Level 52)*: Single target heal (GCD)
-* *Asylum (Level 52)*: Ground target, AoE, HoT (oGCD)
-* *Stone III (Level 54)*: Single target damage (GCD)
-* *Assize (Level 56)*: AoE heal & AoE damage (oGCD)
+* *Asylum (Level 52)*: ground target, AoE, HoT (oGCD)
+* *Stone II -> Stone III (Level 54)*: Single target damage (GCD)
+* *Assize (Level 56)*: AoE heal, AoE damage (oGCD)
 * *Thin Air (level 58)*: Self MP reduction buff (oGCD)
+* *Tetragrammaton (level 60)*: Single target heal (oGCD)
 
 ## Healing
+From 52 you unlock Solace this is one of your three Lily spells, this should be used instead of Cure II as it does not cost mana. At level 52 you get Asylum, this should be used often as it has a low 60s cooldown and provides a powerful regen tool for anyone inside with a short cooldown. Thin Air is unlocked at 58, this is a part of your mana control tool keep one on cooldown at all times and use your extra one for high mana cost spells or a rez. At 60 you get tetragrammaton, it has a strong single target heal to help dps who get hit by an extra mechanic or to help your tank healing. This should be used often during trash pulls and should be used over cure II and Solace since it's a free heal.
 
 ## Damage
+At level 54 your Stone II upgrades to Stone III, the same rules apply as above use Holy for Trash pulls and if one mob is up you can use Stone III on it as it does more damage on single target. At level 56 you gain Assize, it has a heal and a damage compontent but you want to use it near cooldown as a damage spell that has the side effect of also healing. If it's coming off cooldown  you should delay any other healing to get the healing value out of Assize while also using it for damage.
+
 # Levels 61-70
 ## New Skills
-* *Tetragrammaton (Level 60)*: single target heal (oGCD)
 * *Stone IV (level 64)*: Single target damage (GCD)
 ## Healing
 ## Damage
