@@ -70,8 +70,9 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 * *Divine Benison (level 66)*: Single Target shield (oGCD)
 * *Plenary Indulgence (level 70)*: Healing buff to self and nearby party members (oGCD)
 ## Healing
+* Divine Benison should be used as much as possible as it's a free 500p shield, use it on cooldown during a fight or prepull. Plenary Indulgence should be used if you are ever thinking of using Medica, Medica II or Cure III as it increases the healing done by a good amount on a short 60s cooldown.
 ## Damage
-
+You get an upgrade to Stone at level 64, nothing changes about priority again
 # Levels 71-80
 ## New Skills
 * *Aero II -> Dia (level 72)*: Single target DoT (GCD)
@@ -80,7 +81,9 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 * *Afflatus Rapture (level 76)*: AoE heal (GCD)
 * *Temperance (level 80)*: Healing buff to self & Mitigation buff to self and nearby party members.
 ## Healing
+Afflatus Rapture and Afflatus Solace is your go to GCD healing spells after unlocking Misery as you lose no damage for using them. Plenary also effects Rapture so if you need extra healing for Rapture keep that in mind. At level 80 you gain temperance, giving you a healing buff and everyone in your party a mitigation buff. Use this during pulls as it just gives your tank extra mitigation and it also increases your GCD heals including regen which is a great tool to keeo your tank healthy. 
 ## Damage
+Unlocking Rapture changes your dps priority a bit when it comes to fights as Misery is a damage gain. Misery is damage gain but also has a  5y aoe around it. Fishing for Misery and not overcapping on Lily is something you should aim to do. You should continue to use Holy on two or more targets as the stun is great and try to Lily during downtime or priortize lily spells when healing. Holy is a damage lost on two targets compared to Glare, so try to Glare in two target situations.
 
 # Levels 81-90
 ## New Skills
@@ -90,4 +93,6 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 * *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
 * *Liturgy of the Bell (level 90)*: Ground target healing buff
 ## Healing
+You get an over all healing buff at level 85
 ## Damage
+At level 82 Misery stops being a damage gain and becomes a damage neutral so you don't have to force yourself not to overcap on Lillies anymore for damage. Glare and Holy get upgraded, use Glare when you have nothing else to do on one or two targets. Keep your Dia up and Holy III for the stun on two targets or damage and stun on three plus targets
