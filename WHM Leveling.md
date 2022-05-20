@@ -1,5 +1,5 @@
 # Gear and Job Quests
-Always keep up to date with job quests, they give you strong spells or strong gear. At lower levels you can equip crafting/gathering gear and it does nothing for you but make your life harder, make sure your gear has mind and vitality on it. You should always aim to keep your gear up to date, roll for dungeon gear with mind on it and spend your tomestones on tomestone gear so you can equip it when you hit 50, 60, 70 and 80
+Always keep up to date with job quests, they give you strong spells or strong gear. At lower levels you can equip crafting/gathering gear and it does nothing for you but make your life harder, make sure your gear has mind and vitality on it. You should always aim to keep your gear up to date, roll for dungeon gear with mind on it and spend your tomestones on tomestone gear so you can equip it when you hit 50, 60, 70 and 80. You can find the vendors in Mor Dhona(50), Idyllshire(60), Rhalgr's Reach(70) and Eulmore(80). Major cities also have vendors called Sundry Splendors which sells the gear based on the zone's level.
 
 # Introduction
 
