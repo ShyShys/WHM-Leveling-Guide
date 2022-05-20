@@ -91,8 +91,10 @@ Unlocking Rapture changes your dps priority a bit when it comes to fights as Mis
 * *Holy -> Holy III (level 82)*: AoE Damage (GCD).
 * *Enhanced Healing Magic (level 85)*: Healing spell up
 * *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
-* *Liturgy of the Bell (level 90)*: Ground target healing buff
+* *Enhanced Divine Benison (Level 88)*: Gains a second charge of Divine Benison (oGCD)
+* *Liturgy of the Bell (level 90)*: Ground target healing buff (oGCD)
 ## Healing
-You get an over all healing buff at level 85
+You get a lot of improved healing at level 85. Most notable is Medica II having 1,000 cure potency making it your second best gcd heal on one person. You should not go out of your way to Medica II because of this but doing a medica 2 followed by a Regen before your tanks start pulling isn't a terrible idea. Your general healing during a fight should be OGCDs and Lillies before any other healing spell. Aquaveil becomes a mitigation tool to help your tanks with tank busters and heavy auto attacks from bosses that deal a lot of auto damage try to use it often but holding it for a tank buster is okay too. At level 88 you get a second charge of Divine Benison you should always keep at least one on cooldown andthe second one can be used as an extra tank cd or to help a player who just needs a little more health.
+
 ## Damage
 At level 82 Misery stops being a damage gain and becomes a damage neutral so you don't have to force yourself not to overcap on Lillies anymore for damage. Glare and Holy get upgraded, use Glare when you have nothing else to do on one or two targets. Keep your Dia up and Holy III for the stun on two targets or damage and stun on three plus targets
