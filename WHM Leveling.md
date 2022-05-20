@@ -36,7 +36,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 ## New Skills
 * *Cure II (level 30)*: Single target heal (GCD).
 * *Presence of Mind (level 30)*: Self haste buff (oGCD).
-* *Regen (level 35)*: Single target HoT heal (GCD), instant cast).
+* *Regen (level 35)*: Single target HoT heal (GCD, instant cast).
 * *Cure III (level 40*: Targeted AoE heal (GCD).
 * *Holy (level 45)*: AoE Damage (GCD).
 * *Aero -> Aero II (level 46)*: Single target DoT (GCD, instant cast).
@@ -53,7 +53,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
  
 # Levels 51-60
 ## New Skills
-* *Afflatus Solace (level 52)*: Single target heal (GCD)
+* *Afflatus Solace (level 52)*: Single target heal (GCD, instant cast)
 * *Asylum (level 52)*: ground target, AoE, HoT (oGCD)
 * *Stone II -> Stone III (level 54)*: Single target damage (GCD)
 * *Assize (level 56)*: AoE heal, AoE damage (oGCD)
@@ -77,11 +77,11 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 You get an upgrade to Stone at level 64, nothing changes about priority again
 # Levels 71-80
 ## New Skills
-* *Aero II -> Dia (level 72)*: Single target DoT (GCD)
+* *Aero II -> Dia (level 72)*: Single target DoT (GCD, instant cast)
 * *Stone IV -> Glare (level 72)*: Single target damage (GCD)
-* *Afflatus Misery (level 74)*: Targeted AoE damage (GCD)
-* *Afflatus Rapture (level 76)*: AoE heal (GCD)
-* *Temperance (level 80)*: Healing buff to self & Mitigation buff to self and nearby party members.
+* *Afflatus Misery (level 74)*: Targeted AoE damage (GCD, instant cast)
+* *Afflatus Rapture (level 76)*: AoE heal (GCD, instant cast)
+* *Temperance (level 80)*: Healing buff to self & Mitigation buff to self and nearby party members (oGCD)
 ## Healing
 Afflatus Rapture and Afflatus Solace is your go to GCD healing spells after unlocking Misery as you lose no damage for using them. Plenary also effects Rapture so if you need extra healing for Rapture keep that in mind. At level 80 you gain temperance, giving you a healing buff and everyone in your party a mitigation buff. Use this during pulls as it just gives your tank extra mitigation and it also increases your GCD heals including regen which is a great tool to keeo your tank healthy. 
 ## Damage
