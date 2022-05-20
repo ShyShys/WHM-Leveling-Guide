@@ -17,6 +17,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 * HP (Health Points): Your life. Don’t let this hit 0.
 * MP (Mana Points): The resource that allows you to cast spells. 
+* Lily (Lillies): Refers to your healing that requires your Lily job gauge
 
 # Role Actions
 
