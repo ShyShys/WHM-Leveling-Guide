@@ -22,18 +22,18 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 # Role Actions
 
 # Levels 1-29
-## New Skills
+## New Abilities
 * *Stone (level 1)*: Single target damage (GCD).
 * *Cure (level 2)*: Single target heal (GCD).
 * *Aero (Level 4)*: Single target DoT (GCD, instant cast).
 * *Medica (level 10)*: AoE heal (GCD).
 * *Stone -> Stone II (level 18)*: Single target damage (GCD, replaces Stone).
 ## Healing
- Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica for group damage if needed.
+ Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica as needed needed.
 ## Damage
  Help your party by doing damage when you don't need to heal. When your tank is grouping up a lot of mobs use your DoT spell while running with the tank.
 # Levels 30-50
-## New Skills
+## New Abilities
 * *Cure II (level 30)*: Single target heal (GCD).
 * *Presence of Mind (level 30)*: Self haste buff (oGCD).
 * *Regen (level 35)*: Single target HoT heal (GCD, instant cast).
@@ -52,7 +52,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
  At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time, and 1s for the last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you should go to Stone II if only one mob is up
  
 # Levels 51-60
-## New Skills
+## New Abilities
 * *Afflatus Solace (level 52)*: Single target heal (GCD, instant cast)
 * *Asylum (level 52)*: ground target, AoE, HoT (oGCD)
 * *Stone II -> Stone III (level 54)*: Single target damage (GCD)
@@ -67,7 +67,7 @@ From 52 you unlock Solace this is one of your three Lily spells, this should be 
 At level 54 your Stone II upgrades to Stone III, the same rules apply as above use Holy for Trash pulls and if one mob is up you can use Stone III on it as it does more damage on a single target. At level 56 you gain Assize, it has a heal and a damage component but you want to use it near cooldown as a damage spell that has the side effect of also healing. If it's coming off cooldown you should delay any other healing to get the healing value out of Assize while also using it for damage.
 
 # Levels 61-70
-## New Skills
+## New Abilities
 * *Stone III -> Stone IV (level 64)*: Single target damage (GCD)
 * *Divine Benison (level 66)*: Single Target shield (oGCD)
 * *Plenary Indulgence (level 70)*: Healing buff to self and nearby party members (oGCD)
@@ -76,7 +76,7 @@ At level 54 your Stone II upgrades to Stone III, the same rules apply as above u
 ## Damage
 You get an upgrade to Stone at level 64, nothing changes about priority again
 # Levels 71-80
-## New Skills
+## New Abilities
 * *Aero II -> Dia (level 72)*: Single target DoT (GCD, instant cast)
 * *Stone IV -> Glare (level 72)*: Single target damage (GCD)
 * *Afflatus Misery (level 74)*: Targeted AoE damage (GCD, instant cast)
@@ -88,7 +88,7 @@ Afflatus Rapture and Afflatus Solace is your go-to GCD healing spells after unlo
 Unlocking Rapture changes your DPS priority a bit when it comes to fights as Misery is a damage gain. Misery is damage gain but also has a  5y AoE around it. Fishing for Misery and not overcapping on Lily is something you should aim to do. You should continue to use Holy on two or more targets as the stun is great and try to Lily during downtime or prioritize lily spells when healing. Holy is a damage lost on two targets compared to Glare, so try to Glare in two target situations.
 
 # Levels 81-90
-## New Skills
+## New Abilities
 * *Glare -> Glare III (level 82)*: Single target damage (GCD)
 * *Holy -> Holy III (level 82)*: AoE Damage (GCD).
 * *Enhanced Healing Magic (level 85)*: Healing spell up
