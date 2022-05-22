@@ -31,7 +31,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 ## Healing
  Your heals are bare bones here, use Cure for tank healing or to help a party member who took extra damage. Use Medica as needed needed.
 ## Damage
- Help your party by doing damage when you don't need to heal. When your tank is grouping up a lot of mobs use your DoT spell while running with the tank.
+ During boss fights keep your Aero on the boss refreshing it when it's 2-0 seconds duration on the boss. Stone should be used to fill time, if you have no need to heal or do anything else you should be using Stone. When doing trash pulls Aero the mobs as your tank is moving to gather everything up and use Stone when they stop.
 # Levels 30-50
 ## New Abilities
 * *Cure II (level 30)*: Single target heal (GCD).
@@ -43,13 +43,13 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Medica II (level 50)*: AoE HoT Heal (GCD)
 * *Benediction (level 50)*: Single target heal (oGCD)
 ## Healing
- Cure II is an upgrade over Cure letting you heal much more for more mana, Cure becomes more niche only being needed if you're low on mana. Regen becomes your best healing tool healing for 1200p over 18s this should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
+ Cure II is an upgrade over Cure letting you heal much more for more mana, Cure becomes more niche; only used if you're low on mana. Regen becomes your best healing tool healing for 1200p over 18s and should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
  
  Cure III becomes an upgrade over Medica with just a slightly smaller range, it cost more mana while having a smaller range so it shouldn't be used too much. Your best AoE heal becomes Medica II it becomes equal to Medica with one tick and stronger than Medica with two ticks. This should be your primary AoE heal if you need to heal your party and they aren't in danger of dying.
 
  At level 50 you get Benediction, this should be used proactively letting tanks get low during trash pulls and instantly healing them to full as close to on cooldown as possible is the best use and it will save you a lot of effort.
 ## Damage
- At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time, and 1s for the last time stunning mobs for 7s use this on trash packs it's what makes WHM so good for dungeons.  Use this for trash pulls always, you should go to Stone II if only one mob is up
+ At level 45 you gain Holy one of the best spells for dungeon mobs, it stuns for 4s for the first time, 2s for the second time, and 1s for the last time stunning mobs for a total of 7s. Use this on trash packs it's what makes WHM so good for dungeons.  Always use this for trash pulls as long as you can hit more than 1 mob.
  
 # Levels 51-60
 ## New Abilities
