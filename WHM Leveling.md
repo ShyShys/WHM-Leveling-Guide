@@ -107,8 +107,11 @@ At level 82 Misery stops being a damage gain and becomes a damage neutral so you
 
 
 
-THINGS TO UPDATE:
+# THINGS TO UPDATE:
 Level 51-60 fix Tetra wordin g
+
 Level 71-80 rewrite Damage
+
 Level 81-90 maybe talk more about improved healing
+
 Level 81-90 Add Bell
