@@ -63,7 +63,7 @@ Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely
 * *Tetragrammaton (level 60)*: Single target heal (oGCD)
 
 ## Healing
-At level 52 you unlock Solace this is one of your three Lily spells, this should be used instead of Cure II as it does not cost mana. You also unlock Asylum, this should be used often as it has a low 60s cooldown and provides a powerful regen tool for anyone inside with a short cooldown. Asylum can also be used just for healign tanks during trash pulls. Thin Air is unlocked at 58, this is a part of your mana control tool keep one on cooldown at all times and use your extra one for high mana cost spells or a resurrect. At 60 you get tetragrammaton, it has a strong single target heal to help DPS who get hit by an extra mechanic or to help your tank heal. This should be used often during trash pulls and should be used over cure II and Solace since it's a free heal.
+At level 52 you unlock Solace this is one of your three Lily spells, this should be used instead of Cure II as it does not cost mana. You also unlock Asylum, this should be used often as it has a low 60s cooldown and provides a powerful regen tool for anyone inside with a short cooldown. Asylum can also be used just for healign tanks during trash pulls. Thin Air is unlocked at 58, this is a part of your mana control tool keep one on cooldown at all times and use your extra one for high mana cost spells or a resurrect. At 60 you get tetragrammaton, it has a strong single target heal it's primarily used as a tank healing tool but can also be used to top off a low dps. This should be used often during trash pulls and should be used over cure II and Solace since it's a free heal.
 
 ## Damage
 At level 54 your Stone II upgrades to Stone III, but Holy is still more damage for 2 or more targets. At level 56 you gain Assize, it has a heal and a damage component but you want to use it near cooldown as a damage ability that has the side effect of also healing. If it's coming off cooldown you should delay any other healing to get the healing value out of Assize while also using it for damage.
@@ -76,7 +76,7 @@ At level 54 your Stone II upgrades to Stone III, but Holy is still more damage f
 ## Healing
 * Divine Benison should be used as much as possible as it's a free 500p shield, use it on cooldown during a fight or pre pull. Plenary Indulgence should be used if you are ever thinking of using Medica, Medica II, or Cure III as it increases the healing done by a good amount on a short 60s cooldown.
 ## Damage
-You get an upgrade to Stone at level 64, nothing changes about priority again
+You get an upgrade to Stone at level 64, nothing changes about damage priority again
 
 # Levels 71-80
 ## New Abilities
@@ -88,7 +88,7 @@ You get an upgrade to Stone at level 64, nothing changes about priority again
 ## Healing
 Afflatus Rapture and Afflatus Solace are your go-to GCD healing spells after unlocking Misery as you lose no damage for using them. Plenary also affects Rapture so if you need extra healing for Rapture keep that in mind. At level 80 you gain temperance, giving you a healing buff and everyone in your party a mitigation buff. Use this during pulls as it just gives your tank extra mitigation and it also increases your GCD heals including regen which is a great tool to keep your tank healthy.
 ## Damage
-(Rewrite damage)
+> At level 72 Aero changes to Dia and Stone changes to Glare, the only real change is Holy is no longer damage neutral to Glare which means using glare with only two enemies is a damage gain. Use Holy on two targets for the stun and use holy on three or more targets for damage and stun. At level 74 you get Afflatus Misery it makes Solace and Rapture a damage gain Misery adds up to 1,240p over four gcds while Glares is 1,160p over four gcds. This makes Solace/Rapture your preferred GCD heal heal during a fight however using Solace/Rapture during downtime to get Misery is also a gain as you're cutting out GCDs needed to proc Misery. 
 
 # Levels 81-90
 ## New Abilities
@@ -102,15 +102,12 @@ Afflatus Rapture and Afflatus Solace are your go-to GCD healing spells after unl
 You get a lot of improved healing at level 85. Aquaveil becomes a mitigation tool to help your tanks with tank busters and heavy auto attacks from bosses  try to use it often but holding it for a tank buster is okay too. At level 88 you get a second charge of Divine Benison you should always keep at least one on cooldown and the second one can be used as an extra tank cd or to help a player who just needs a little more health.
 
 ## Damage
-At level 82 Misery stops being a damage gain and becomes a damage neutral so you don't have to force yourself not to overcap on Lillies anymore for damage. Glare and Holy get upgraded, use Glare when you have nothing else to do on one or two targets. Keep your Dia up and Holy III for the stun on two targets or damage and stun on three plus targets
+At level 82 Misery stops being a damage gain and becomes a damage neutral so you don't have to force yourself not to overcap on Lillies anymore for damage. Glare and Holy get upgraded, your damage priority when it comes to Holy and Glare doesn't change from level 72.
 
 
 
 
-# THINGS TO UPDATE:
-Level 51-60 fix Tetra wordin g
-
-Level 71-80 rewrite Damage
+# Things I should maybe add?:
 
 Level 81-90 maybe talk more about improved healing
 
