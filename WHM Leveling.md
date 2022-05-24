@@ -102,7 +102,7 @@ At level 72 Aero changes to Dia and Stone changes to Glare, both are purely visu
 You get a lot of improved healing at level 85. Aquaveil becomes a mitigation tool to help your tanks with tank busters and heavy auto attacks from bosses  try to use it often but holding it for a tank buster is okay too. At level 88 you get a second charge of Divine Benison you should always keep at least one on cooldown and the second one can be used as an extra tank cd or to help a player who just needs a little more health.
 
 ## Damage
-At level 82 Misery stops being a damage gain and becomes a damage neutral so you don't have to force yourself not to overcap on Lillies anymore for damage. Glare and Holy get upgraded, your damage priority when it comes to Holy and Glare doesn't change from level 72.
+At level 82 Misery becomes neutral to Glare III, You will no longer have to use Lillies during a fight however it's still a damage gain to use it during downtime or for trash with more than one  enemy. Glare and Holy get upgraded, your damage priority when it comes to Holy and Glare doesn't change from level 72.
 
 
 
