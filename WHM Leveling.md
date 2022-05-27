@@ -2,6 +2,7 @@
 Always keep up to date with job quests, they give you strong spells or strong gear. At lower levels, you can equip crafting/gathering gear and it does nothing for you but make your life harder, make sure your gear has mind and vitality on it. You should always aim to keep your gear up to date, roll for dungeon gear with mind on it and spend your tomestones on tomestone gear so you can equip it when you hit 50, 60, 70, and 80. You can find the vendors in Mor Dhona(50), Idyllshire(60), Rhalgr's Reach(70), and Eulmore(80). Major cities also have vendors called Sundry Splendors which sells the gear based on the zone's level.
 
 # Introduction
+This guide is intended to help a casual player looking for advice while playing White Mage while leveling. Below I'll explain per level group how to use your abilities while leveling. If you'd like to learn more about White Mage I suggest checking out other guides like the Basic Guide or even just reading your tooltips.
 
 # Glossary
 * WHM: White Mage.
